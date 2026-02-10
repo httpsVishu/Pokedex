@@ -1,5 +1,5 @@
 let currentPokemonId = null;
-const MAX_POKEMON = 200;
+const MAX_POKEMON = 1200;
 
 document.addEventListener("DOMContentLoaded", () => {
     const pokemonID = new URLSearchParams(window.location.search).get("id");
