@@ -4,7 +4,7 @@ Welcome to the Pokedex!
 
 This project is a small web app inspired by the original Pokemon Pokedex, where you can look up Pokemon and see their basic details. It is built using HTML, CSS and JavaScript and uses real Pokemon data fetched from pokeAPI.
 
-The idea was simple: make something fun while learning how data flows from an API to the screen.
+The idea was simple: make something fun while learning how data flows from an API to the screen :)
 
 # What you can do
 
